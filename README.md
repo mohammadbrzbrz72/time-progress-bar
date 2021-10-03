@@ -1,6 +1,6 @@
 # TimeProgressBar
 
-Its a package to create progressbar component for your time interval
+Its a react package to create progressbar component for your time interval.
 
 <br />
 
@@ -8,7 +8,7 @@ Its a package to create progressbar component for your time interval
 
 <br />
 <br />
-<a href="https://imgbb.com/"><img style='width:300px' src="https://i.ibb.co/0VSjfrF/demo-time-progress-bar.png" alt="demo-time-progress-bar" border="0px" /></a>
+<a href="https://imgbb.com/" target="_blank"><img style='width:300px' src="https://i.ibb.co/0VSjfrF/demo-time-progress-bar.png" alt="demo-time-progress-bar" border="0px" /></a>
 <br />
 <br />
 
@@ -82,7 +82,7 @@ yarn:
         color: "#22a6b3",
         className: "some-class",
         /*
-        .some-class:hover .timebar-hover div {
+        .some-class:hover .timebar-box div {
           display: block !important; 
         }
         */

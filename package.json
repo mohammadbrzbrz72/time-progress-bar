@@ -1,9 +1,16 @@
 {
   "name": "time-progress-bar",
   "version": "1.0.0",
-  "description": "",
+  "description": "react package to show time interval",
   "author": "mohammad barzegar",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "progressbar",
+    "time-progress-bar",
+    "input",
+    "ui",
+    "react-component"
+  ],
   "license": "MIT",
   "repository": "mohammadbrzbrz72/time-progress-bar",
   "source": "src/index.js",
